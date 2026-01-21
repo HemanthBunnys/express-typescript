@@ -20,7 +20,7 @@ npm install
 # Build TypeScript
 npm run build
 ```
-### Please email to hemanthbunny726@gmail.com if you're are looking for POSTMAN collection
+Please email to hemanthbunny726@gmail.com if you're are looking for POSTMAN collection
 
 ### Running the Application
 
