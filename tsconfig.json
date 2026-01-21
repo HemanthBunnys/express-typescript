@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "jest"
+    ],
+    "target": "ES2022",
+    "module": "ESNext",
+    "sourceMap": true,
+    "lib": ["es2019"],
+    "outDir": "./dist",
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src", "tests", "package.json"],
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
+  }
+}
